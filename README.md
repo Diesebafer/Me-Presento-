@@ -65,7 +65,8 @@ Power BI
 ## Contacto
 
 **✉ diego.sfernandez91@gmail.com**
-**📌 www.linkedin.com/in/diegosfernandez**
+**✔ www.linkedin.com/in/diegosfernandez**
+**📌 www.notion.so/diegosfernandez**
 
 
 
